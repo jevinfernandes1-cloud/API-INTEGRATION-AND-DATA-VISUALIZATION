@@ -12,7 +12,7 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTHOSH
 
-**API Integration and Data Visualization
+*API Integration and Data Visualization
 
 In today’s digital world, data is often generated and shared through Application Programming Interfaces (APIs). APIs enable applications to interact and exchange information seamlessly, allowing developers to build intelligent and data-driven systems. One of the most widely used APIs for real-time information is the OpenWeatherMap API, which provides weather data for different locations across the globe. In this project, we aim to demonstrate how Python can be used to integrate with such a public API, fetch structured data, process it, and finally visualize the results using powerful libraries like Matplotlib and Seaborn. This project combines the principles of data integration, transformation, and visualization into a single workflow.
 
@@ -93,7 +93,7 @@ Conclusion
 
 This project showcases the complete pipeline of working with public APIs and visualizing the data in Python. By integrating the OpenWeatherMap API, processing the raw JSON data into a structured DataFrame, and finally visualizing it using Matplotlib and Seaborn, we successfully built a weather forecast dashboard. The project emphasizes the importance of APIs in modern computing and demonstrates how visualization can turn raw data into actionable insights.
 
-In the future, this project can be extended to build interactive dashboards using libraries such as Plotly Dash or Streamlit, which would allow users to search for any city and dynamically view its forecast. Thus, the project not only meets the requirements of API integration and visualization but also opens the door to exciting real-world applications.**
+In the future, this project can be extended to build interactive dashboards using libraries such as Plotly Dash or Streamlit, which would allow users to search for any city and dynamically view its forecast. Thus, the project not only meets the requirements of API integration and visualization but also opens the door to exciting real-world applications.*
 
 #OUTPUT
 
