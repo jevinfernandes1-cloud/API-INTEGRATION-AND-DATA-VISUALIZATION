@@ -12,7 +12,7 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTHOSH
 
-**API Integration and Data Visualization
+**Project Description
 
 For this project, I wanted to explore how we can connect to real-world data using Python and then make sense of it through graphs. The idea was to fetch live data from a public API and turn it into clear visualizations instead of just plain numbers. After checking a few options, I decided to use the OpenWeatherMap API, because weather data is something we can all relate to and it updates in real-time.
 
